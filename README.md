@@ -1,0 +1,2 @@
+This repository contains pycnometry and physisorption data (BET surface area). The pycnometry data at different sintering temperature corresponds is for composites of HA/Alginate and HA/polyurethane. The joint physisorption and pycnometry database is for HA/Alginate slabs sintered at 300 C.
+The excel file "Hydroxyapatiterecordoftests.xlsx" contains the experimental conditions and key for the raw data pycnomtry and physisorption files.
